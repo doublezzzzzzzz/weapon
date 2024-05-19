@@ -1,0 +1,16 @@
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\ConsoleManager.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\ConsoleManager.pdb
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\loger.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\logic.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\Microsoft.Analytics.Types.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\lab3_THI.dll
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\loger.pdb
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\logic.pdb
+D:\творческий 4 семестр\ConsoleManager\bin\Debug\lab3_THI.pdb
+D:\творческий 4 семестр\ConsoleManager\obj\Debug\ConsoleManager.csproj.AssemblyReference.cache
+D:\творческий 4 семестр\ConsoleManager\obj\Debug\ConsoleManager.csproj.CoreCompileInputs.cache
+D:\творческий 4 семестр\ConsoleManager\obj\Debug\ConsoleManager.csproj.CopyComplete
+D:\творческий 4 семестр\ConsoleManager\obj\Debug\ConsoleManager.dll
+D:\творческий 4 семестр\ConsoleManager\obj\Debug\ConsoleManager.pdb

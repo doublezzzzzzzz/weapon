@@ -1,0 +1,16 @@
+D:\творческий 4 семестр\UserInterface\bin\Debug\UserInterface.exe.config
+D:\творческий 4 семестр\UserInterface\bin\Debug\UserInterface.exe
+D:\творческий 4 семестр\UserInterface\bin\Debug\UserInterface.pdb
+D:\творческий 4 семестр\UserInterface\bin\Debug\lab3_THI.dll
+D:\творческий 4 семестр\UserInterface\bin\Debug\logic.dll
+D:\творческий 4 семестр\UserInterface\bin\Debug\lab3_THI.pdb
+D:\творческий 4 семестр\UserInterface\bin\Debug\logic.pdb
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.csproj.AssemblyReference.cache
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.Form1.resources
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.exe
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.pdb
+D:\творческий 4 семестр\UserInterface\obj\Debug\UserInterface.Form2.resources

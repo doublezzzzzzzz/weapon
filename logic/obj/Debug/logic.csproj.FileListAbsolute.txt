@@ -1,0 +1,12 @@
+D:\творческий 4 семестр\logic\bin\Debug\logic.dll
+D:\творческий 4 семестр\logic\bin\Debug\logic.pdb
+D:\творческий 4 семестр\logic\bin\Debug\lab3_THI.dll
+D:\творческий 4 семестр\logic\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\творческий 4 семестр\logic\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\творческий 4 семестр\logic\bin\Debug\Microsoft.Analytics.Types.dll
+D:\творческий 4 семестр\logic\bin\Debug\lab3_THI.pdb
+D:\творческий 4 семестр\logic\obj\Debug\logic.csproj.AssemblyReference.cache
+D:\творческий 4 семестр\logic\obj\Debug\logic.csproj.CoreCompileInputs.cache
+D:\творческий 4 семестр\logic\obj\Debug\logic.csproj.CopyComplete
+D:\творческий 4 семестр\logic\obj\Debug\logic.dll
+D:\творческий 4 семестр\logic\obj\Debug\logic.pdb

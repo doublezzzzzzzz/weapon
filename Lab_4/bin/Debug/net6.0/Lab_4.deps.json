@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab_4/1.0.0": {
+        "dependencies": {
+          "ConsoleManager": "1.0.0",
+          "lab3_THI": "1.0.0",
+          "logic": "1.0.0"
+        },
+        "runtime": {
+          "Lab_4.dll": {}
+        }
+      },
+      "ConsoleManager/1.0.0": {
+        "dependencies": {
+          "logger": "1.0.0",
+          "logic": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleManager.dll": {}
+        }
+      },
+      "lab3_THI/1.0.0": {
+        "dependencies": {
+          "logger": "1.0.0"
+        },
+        "runtime": {
+          "lab3_THI.dll": {}
+        }
+      },
+      "logger/1.0.0": {
+        "runtime": {
+          "loger.dll": {}
+        }
+      },
+      "logic/1.0.0": {
+        "dependencies": {
+          "lab3_THI": "1.0.0"
+        },
+        "runtime": {
+          "logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab3_THI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

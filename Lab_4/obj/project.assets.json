@@ -1,0 +1,155 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConsoleManager/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "logger": "1.0.0",
+          "logic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ConsoleManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConsoleManager.dll": {}
+        }
+      },
+      "lab3_THI/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "logger": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/lab3_THI.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lab3_THI.dll": {}
+        }
+      },
+      "logger/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/logger.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/logger.dll": {}
+        }
+      },
+      "logic/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "lab3_THI": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleManager/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleManager/ConsoleManager.csproj",
+      "msbuildProject": "../ConsoleManager/ConsoleManager.csproj"
+    },
+    "lab3_THI/1.0.0": {
+      "type": "project",
+      "path": "../lab3_THI/lab3_THI.csproj",
+      "msbuildProject": "../lab3_THI/lab3_THI.csproj"
+    },
+    "logger/1.0.0": {
+      "type": "project",
+      "path": "../loger/logger.csproj",
+      "msbuildProject": "../loger/logger.csproj"
+    },
+    "logic/1.0.0": {
+      "type": "project",
+      "path": "../logic/logic.csproj",
+      "msbuildProject": "../logic/logic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConsoleManager >= 1.0.0",
+      "lab3_THI >= 1.0.0",
+      "logic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Лика\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\творческий 4 семестр\\Lab_4\\Lab_4.csproj",
+      "projectName": "Lab_4",
+      "projectPath": "D:\\творческий 4 семестр\\Lab_4\\Lab_4.csproj",
+      "packagesPath": "C:\\Users\\Лика\\.nuget\\packages\\",
+      "outputPath": "D:\\творческий 4 семестр\\Lab_4\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Лика\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\творческий 4 семестр\\ConsoleManager\\ConsoleManager.csproj": {
+              "projectPath": "D:\\творческий 4 семестр\\ConsoleManager\\ConsoleManager.csproj"
+            },
+            "D:\\творческий 4 семестр\\lab3_THI\\lab3_THI.csproj": {
+              "projectPath": "D:\\творческий 4 семестр\\lab3_THI\\lab3_THI.csproj"
+            },
+            "D:\\творческий 4 семестр\\logic\\logic.csproj": {
+              "projectPath": "D:\\творческий 4 семестр\\logic\\logic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

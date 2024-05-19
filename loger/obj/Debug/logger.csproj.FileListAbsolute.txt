@@ -1,0 +1,10 @@
+D:\творческий 4 семестр\loger\bin\Debug\loger.dll
+D:\творческий 4 семестр\loger\bin\Debug\loger.pdb
+D:\творческий 4 семестр\loger\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\творческий 4 семестр\loger\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\творческий 4 семестр\loger\bin\Debug\Microsoft.Analytics.Types.dll
+D:\творческий 4 семестр\loger\obj\Debug\logger.csproj.AssemblyReference.cache
+D:\творческий 4 семестр\loger\obj\Debug\logger.csproj.CoreCompileInputs.cache
+D:\творческий 4 семестр\loger\obj\Debug\logger.csproj.CopyComplete
+D:\творческий 4 семестр\loger\obj\Debug\loger.dll
+D:\творческий 4 семестр\loger\obj\Debug\loger.pdb

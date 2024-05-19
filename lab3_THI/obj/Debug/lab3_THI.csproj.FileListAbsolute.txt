@@ -1,0 +1,12 @@
+D:\творческий 4 семестр\lab3_THI\bin\Debug\lab3_THI.dll
+D:\творческий 4 семестр\lab3_THI\bin\Debug\lab3_THI.pdb
+D:\творческий 4 семестр\lab3_THI\bin\Debug\loger.dll
+D:\творческий 4 семестр\lab3_THI\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\творческий 4 семестр\lab3_THI\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\творческий 4 семестр\lab3_THI\bin\Debug\Microsoft.Analytics.Types.dll
+D:\творческий 4 семестр\lab3_THI\bin\Debug\loger.pdb
+D:\творческий 4 семестр\lab3_THI\obj\Debug\lab3_THI.csproj.AssemblyReference.cache
+D:\творческий 4 семестр\lab3_THI\obj\Debug\lab3_THI.csproj.CoreCompileInputs.cache
+D:\творческий 4 семестр\lab3_THI\obj\Debug\lab3_THI.csproj.CopyComplete
+D:\творческий 4 семестр\lab3_THI\obj\Debug\lab3_THI.dll
+D:\творческий 4 семестр\lab3_THI\obj\Debug\lab3_THI.pdb
