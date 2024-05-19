@@ -10,10 +10,17 @@ namespace UserInterface
     public partial class Form1 : Form
     { 
         private Division division = DivisionFactory.CreateDivision();
+        
+
         public Form1()
         {
             InitializeComponent();
+
+          
+
         }
+
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -34,11 +41,7 @@ namespace UserInterface
             label1.Text = DivisionPrizeColculatorFactory.CreateDivisionPrizeColculator(division).Colculate().ToString();
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Form2 frm = new Form2(this);
-            frm.Show();
-        }
+
 
         public void UpdateList(AbstructWeapon w)
         {
@@ -70,6 +73,12 @@ namespace UserInterface
                 listBox1.Items.Add(division.weaponList[i].Name);
             }
             ChangeLable();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form2 frm = new Form2(this);
+            frm.Show();
         }
     }
 }

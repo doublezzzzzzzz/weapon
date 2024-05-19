@@ -95,7 +95,6 @@
             this.Controls.Add(this.listBox1);
             this.Name = "Form1";
             this.Text = "Weopon";
-            this.Load += new System.EventHandler(this.button3_Click);
             this.ResumeLayout(false);
             this.PerformLayout();
 
